@@ -3,7 +3,6 @@
 void main()
 {
 int i,j,a[50],b[50],n,t;
-clrscr();
 scanf("\n %d",&n);
 for(i=0;i<n;i++)
 {
